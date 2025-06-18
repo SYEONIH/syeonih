@@ -8,6 +8,14 @@
           <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
           </div>
     </div>
+
+    
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SYEONIH&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/SYEONIH"
+  width="600"
+  height="300"
+/>
+</a>
